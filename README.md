@@ -1,5 +1,3 @@
-# SQL_PROJECTS
-Employee Performance Analytics System Tools: SQL | MySQL | Data Analysis
 # Employee Performance Mapping — MySQL
 
 ## 📌 Objective
